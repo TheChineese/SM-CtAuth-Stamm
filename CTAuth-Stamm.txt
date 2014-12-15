@@ -1,0 +1,20 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.0"
+		}
+		
+		"Notes"	"Initial Release"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/stamm/stamm_ctauth.smx"
+		"Plugin"	"Path_SM/translations/stamm/stamm_ctauth.phrases.txt"
+		
+		"Source"	"Path_SM/scripting/stamm/stamm_ctauth.sp"
+	}
+}
