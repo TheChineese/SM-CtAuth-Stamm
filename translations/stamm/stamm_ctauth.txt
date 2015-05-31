@@ -1,0 +1,40 @@
+﻿"Phrases"
+{
+	"CTAuthDescription"
+	{
+		"en"		"You can join CT team"
+		"de"		"Du kannst dem CT Team beitreten"
+	}
+	"Name"
+	{
+		"en"		"CT Access"
+		"de"		"CT Zugang"
+	}
+	"StammTagPlain"
+	{
+		"en"		"[Stamm]"
+		"de"		"[Stamm]"
+	}
+	"error_no_level"
+	{
+		"#format"	"{1:s}"
+		"en"		"{lavender}You cant join CT Team! You need to be on {blue}{1}{lavender} level!"
+		"de"		"{lavender}Du kannst dem CT Team nicht beitreten! Du musst mindestens auf {blue}{1}{lavender} Level sein!"
+	}
+	"error_no_level_plain"
+	{
+		"#format"	"{1:s}"
+		"en"		"You cant join CT Team! You need to be on {1} level!"
+		"de"		"Du kannst dem CT Team nicht beitreten! Du musst mindestens auf {1} Level sein!"
+	}
+	"error_activate_feature"
+	{
+		"en"		"{lavender}You cant join CT Team! You need to activate the Feature!"
+		"de"		"{lavender}Du kannst dem CT Team nicht beitreten! Du musst das Feature aktivieren!"
+	}
+	"error_activate_feature_plain"
+	{
+		"en"		"You cant join CT Team! You need to activate the Feature!"
+		"de"		"Du kannst dem CT Team nicht beitreten! Du musst das Feature aktivieren!"
+	}
+}
